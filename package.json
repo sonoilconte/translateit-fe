@@ -1,0 +1,14 @@
+{
+  "name": "translateit-fe",
+  "version": "1.0.0",
+  "description": "frontend for translateit",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sepp Hammer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
